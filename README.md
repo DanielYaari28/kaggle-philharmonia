@@ -2,7 +2,7 @@
 
 Predicting which past patrons of the Philharmonia Baroque Orchestra will buy a subscription to the 2014–15 concert season (Duke AIPI Kaggle competition, practice run).
 
-- **Target:** binary — purchased a 2014–15 subscription of any level (1) or not (0)
+- **Target:** binary: purchased a 2014–15 subscription of any level (1) or not (0)
 - **Output:** probability of subscribing for each account in `test.csv`
 - **Metric:** AUROC
 
